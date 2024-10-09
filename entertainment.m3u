@@ -92,48 +92,48 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="IN Bangla Entertainment", Colors Bangla HD
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3774158|Referer=https://moonkerala.xyz/jcinema/?
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="", Sony TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Hindi Entertainment", Sony TV HD
 https://cricfyranahin.xyz/hop/airtelop.php?id=624|Referer=https://sportzxtv.com&User-Agent=HimelOp
                                  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png" group-title="", &TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png" group-title="Hindi Entertainment", &TV HD
 https://cricfyranahin.xyz/hop/airtelop.php?id=5043|Referer=https://sportzxtv.com&User-Agent=HimelOp
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="", Colors HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="Hindi Entertainment", Colors HD
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3694429|Referer=https://moonkerala.xyz/jcinema/?
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="", Sony SAB HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Hindi Entertainment", Sony SAB HD
 https://cricfyranahin.xyz/hop/airtelop.php?id=5688|Referer=https://sportzxtv.com&User-Agent=HimelOp
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="", Star Plus HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Entertainment", Star Plus HD
 https://cricfyranahin.xyz/hop/airtelop.php?id=5656|Referer=https://sportzxtv.com&User-Agent=HimelOp
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310" group-title="", Star Bharat
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310" group-title="Hindi Entertainment", Star Bharat
 https://cricfyranahin.xyz/hop/airtelop.php?id=724|Referer=https://sportzxtv.com&User-Agent=HimelOp
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="", Zee TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment", Zee TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0T54ROLDWh7cBfPDZL539n7ZHytYgfxwFA&s" group-title="",Zee Anmol
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0T54ROLDWh7cBfPDZL539n7ZHytYgfxwFA&s" group-title="Hindi Entertainment",Zee Anmol
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/07/TV-HD-1-2.jpg" group-title="",&TV HD
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/07/TV-HD-1-2.jpg" group-title="Hindi Entertainment",&TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/Andtvhd1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Sony_Marathi.png" group-title="", Sony Marathi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Sony_Marathi.png" group-title="Hindi Entertainment", Sony Marathi
 http://217.20.112.199:8888/sonymarathi/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cc/8e/68/cc8e687ec1214a2d4407fc6e04f216f4.jpg" group-title="", Sony PAL
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cc/8e/68/cc8e687ec1214a2d4407fc6e04f216f4.jpg" group-title="Hindi Entertainment", Sony PAL
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBserZUlPWk20gmdG5nwvyXHsEP7mqFsDLA&s" group-title="", Dangal
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBserZUlPWk20gmdG5nwvyXHsEP7mqFsDLA&s" group-title="Hindi Entertainment", Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 
